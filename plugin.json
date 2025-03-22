@@ -2,7 +2,7 @@
   "name": "Whisper Transcriber",
   "description": "Upload or paste a link to an audio/video file and get timestamped transcripts using Whisper.",
   "version": "1.0.0",
-  "author": "Yaser",
+  "author": "Yasser",
   "entry_point": "index.tsx",
   "type": "ui"
 }
